@@ -1,2 +1,10 @@
 # BootCamp-Orange-Tech
 Projetos do BootCamp Orange Tech da DIO
+
+## 01 - Variaveis e Operadores
+ ###  Primeiro_Desafio
+## 02 - Condicionais
+ ###  Segundo_Desafio
+## 03 - Exercicio
+ ###  Media do Aluno 
+ 
