@@ -7,4 +7,6 @@ Projetos do BootCamp Orange Tech da DIO
  ###  Segundo_Desafio
 ## 03 - Exercicio
  ###  Media do Aluno 
+ ###  Calculo IMC
+ ###  Preço Final de um Produto
  
