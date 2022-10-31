@@ -14,7 +14,7 @@ Projetos do BootCamp Orange Tech da DIO
  ### Juros com funcao
 ## 05 - Objetos
  ## Aula
-## 06 - Classe
+## 06 - Classes
  ## Aula1
 
 # Material de Apoio
