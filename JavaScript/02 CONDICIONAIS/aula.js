@@ -6,7 +6,7 @@ const aAzul = false;
 // >, >=, <, <= 
 */
 // resto da divisão 
-const numero = 2;
+const numero = 5;
 
 //const numeroPar = numero %2
 const numeroDivisil = (numero % 2) === 0; // 2(==) ou 3(===) igual(=) comparação

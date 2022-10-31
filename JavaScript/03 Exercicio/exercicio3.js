@@ -22,5 +22,4 @@ if (condPg === 1){
 }else if(condPg === 4 ){
     precoFinal = (preco * 0.1) + preco
 } 
-
 console.log(precoFinal)
