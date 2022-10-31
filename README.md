@@ -13,8 +13,8 @@ Projetos do BootCamp Orange Tech da DIO
  ### Imc com funcao 
  ### Juros com funcao
 ## 05 - Objetos
- ## Aula
-## 06 - Classe
+ ## Aula 
+## 06 - Classes
  ## Aula1
 
 # Material de Apoio
