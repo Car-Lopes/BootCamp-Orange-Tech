@@ -16,6 +16,10 @@ Projetos do BootCamp Orange Tech da DIO
  ## Aula 
 ## 06 - Classes
  ## Aula1
+## 07 Exercicios Classe
+ ## Classe Carro Consumo Medio de Combustivel
+ ## Classe Pessoa IMC 
+
 
 # Material de Apoio
 
