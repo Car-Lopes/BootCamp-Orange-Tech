@@ -16,11 +16,11 @@ Projetos do BootCamp Orange Tech da DIO
  ### Imc com funcao 
  ### Juros com funcao
 
-## 05 - OBJETOS(OBJECTS)
+## 05 - OBJETOS
  ### Aula 
 
-## 06 - CLASSES(CLASS)
- ### Aula1
+## 06 - Classe
+ ### Aula1_Classe
 
 ## 07 - Exercicios CLASSES
  ### Classe Carro Consumo Medio de Combustivel
