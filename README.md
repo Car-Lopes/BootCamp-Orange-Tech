@@ -13,12 +13,18 @@ Projetos do BootCamp Orange Tech da DIO
  ### Imc com funcao 
  ### Juros com funcao
 ## 05 - Objetos
- ## Aula 
+ ### Aula 
 ## 06 - Classes
- ## Aula1
+ ### Aula1
 ## 07 Exercicios Classe
- ## Classe Carro Consumo Medio de Combustivel
- ## Classe Pessoa IMC 
+ ### Classe Carro Consumo Medio de Combustivel
+ ### Classe Pessoa IMC 
+## 08 Arrays
+ ### aula
+ ### Media com Estrutura de Repetição FOR
+ ### Tabuada com for
+ ### imprimir numeros Pares ou impares 
+ ### Percorre letras do nome com for 
 
 
 # Material de Apoio
