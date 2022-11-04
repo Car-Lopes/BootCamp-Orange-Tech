@@ -19,7 +19,7 @@ Projetos do BootCamp Orange Tech da DIO
 ## 05 - OBJETOS
  ### Aula 
 
-## 06 - Classe
+## 06 - Classe_Classe
  ### Aula1_Classe
 
 ## 07 - Exercicios CLASSES
