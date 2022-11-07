@@ -37,6 +37,9 @@ Projetos do BootCamp Orange Tech da DIO
  ### aula09
  ### Exercicio_Maior_Menor_Numero
 
+# - Projeto Pokedex
+ ## Pokedex
+
 
 # Material de Apoio
 
