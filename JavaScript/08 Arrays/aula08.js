@@ -25,3 +25,5 @@ console.log(alunos);
 console.log(alunos.shift());
 console.log(alunos);
 
+
+
