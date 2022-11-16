@@ -39,6 +39,7 @@ Projetos do BootCamp Orange Tech da DIO
 
 # - Projeto Pokedex
  ## Pokedex
+  ### Replica de uma lista de pokemon com paginação 
 
 
 # Material de Apoio
