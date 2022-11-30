@@ -1,0 +1,18 @@
+Documentação 
+https://www.typescriptlang.org/
+
+
+
+
+
+
+Para converter nosso projeto de JS para TypeScript
+yarn add typescript @types/node @types/react @types/react-dom @types/jest -D
+
+yarn add @types/styled-components -D
+
+
+iniando o typescript
+npx tsc --init
+
+

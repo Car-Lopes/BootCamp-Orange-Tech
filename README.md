@@ -37,10 +37,31 @@ Projetos do BootCamp Orange Tech da DIO
  ### aula09
  ### Exercicio_Maior_Menor_Numero
 
+## 10 - Desafio de Codigo
+ ### Encontrar numero na posição
+ ### Fatorial Desordenado
+ ### FizzBuzz
+ ### Numeros pares e impares ordenados
+ ### Numeros Iguais 
+ ### palidromo
+ ### Quadrado_perfeito
+ ### soma_multiplos
+ ### Somatorio de n
+ ### string 
+
 # - Projeto Pokedex
  ## Pokedex
   ### Replica de uma lista de pokemon com paginação 
 
+# - REACT
+ ## - Projeto REACT - Replicando a Plataforma DIO
+ ### - Project foi convertido para TypeScript 
+
+# - Calculadora
+
+ 
+
+# - Slides REACT
 
 # Material de Apoio
 

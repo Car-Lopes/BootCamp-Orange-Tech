@@ -1,0 +1,45 @@
+As bibliotecas que foram instaladas 
+
+npm install react-hook-form
+
+npm i react-router-dom
+
+npm install react-icons
+
+yarn add styled-components
+
+npm install @hookform/resolvers yup
+
+yarn add yup
+
+npm install axios
+
+npm install -g json   -serverapi fake só para ver roda a alicação 
+
+
+
+
+
+para installar o yarn
+npm install -g yarn
+
+para instalar o npm
+npm install npm@latest -g
+
+Para iniciar o projeto aonde dio(nome)
+npx create-react-app dio
+
+
+Para iniciar o servidor
+npm run start
+yarn start
+
+
+Para verificar uma versao 
+yarn -v   
+
+node -v  
+
+npm -v
+
+
