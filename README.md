@@ -53,7 +53,7 @@ Projetos do BootCamp Orange Tech da DIO
  ## Pokedex
   ### Replica de uma lista de pokemon com paginação 
 
-# - REACT
+# - REACTT
  ## - Projeto REACT - Replicando a Plataforma DIO
  ### - Project foi convertido para TypeScript 
 
