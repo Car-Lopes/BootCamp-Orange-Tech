@@ -1,0 +1,11 @@
+Pacotes
+yarn add axios styled-components
+
+
+Foi usada esse API de um repositorio meu para o exemplo
+https://api.github.com/repos/Car-Lopes/Projeto-DIO-
+
+
+
+Projeto para baixar (Clonar)
+https://github.com/digitalinnovationone/trilha-react-desafio-2

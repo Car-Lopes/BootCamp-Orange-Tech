@@ -58,7 +58,7 @@ Projetos do BootCamp Orange Tech da DIO
  ### - Project foi convertido para TypeScript 
 
 # - Calculadora
- ## - Calculadora Funcional com as operações matematicas (+, -, *, /)
+ ## - Calculadora Funcional com as operações matematicas (+, -, *, /) - Com React
 
  
 
