@@ -1,5 +1,6 @@
 import styled from "styled-components";
 
+
 export const Container = styled.main`
     width: 100%;
     max-width: 80%;
@@ -10,19 +11,20 @@ export const Container = styled.main`
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
+
+    color: #FFFFFF;
 `
+
 export const Wrapper = styled.div`
-    max-width: 300px;
+    max-width: 350px;
 `
-export const Column = styled.div`
-    flex: 1;
-`
+
 export const Row = styled.div`
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    margin-top: 20px;
+    mergin-top: 20px;
 `
 
 export const Title = styled.h2`
@@ -36,43 +38,73 @@ export const Title = styled.h2`
 
     color: #FFFFFF;
 `
+
+export const Column = styled.div`
+    flex: 1;
+`
+
 export const TitleLogin = styled.p`
+    
+    position: absolute;
+    width: 368px;
+    height: 44px;
+    top: 145px;
+
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: 700;
     font-size: 32px;
-    margin-bottom: 20px;
     line-height: 44px;
+    
+
+    color: #FFFFFF;
 `
 export const SubTitleLogin = styled.p`
+
+    position: absolute;
+    width: 280px;
+    height: 20px;
+    top: 180px;
+    margin: 5px;
+    
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
-    margin-bottom: 35px;
     line-height: 25px;
+
+    color: #FFFFFF;
 `
-export const EsqueciText= styled.p`
+
+export const Text = styled.p`
+   
+    margin-top: 17px;
     font-family: 'Open Sans';
     font-style: normal;
-    font-weight: 700;
-    font-size: 12px;
-    line-height: 40px;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 25px;
 
-    color: #E5E044;    
+    color: #FFFFFF;
 `
-export const CriarText= styled.p`
+
+export const FazerLogin = styled.p`
+    
     font-family: 'Open Sans';
     font-style: normal;
-    font-weight: 700;
-    font-size: 12px;
-    line-height: 40px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 22px;
 
-    color: #E23DD7;
+    height: 20px;
+    
+    margin-top: 5px ;
+    color: #FFFFFF;
+        
 `
-/*
-export const ErrorText = styled.p`
-    color: #FF0000;
-    font-size: 12px;
-    margin: 5px 0;
-`*/
+
+export const FazerLogin1 = styled.div`
+    color: #00FF00
+`
+
+

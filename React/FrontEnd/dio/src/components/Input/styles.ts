@@ -8,7 +8,7 @@ export const InputContainer = styled.div`
 
     display: flex;
     align-items: center;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 `
 export const IconContainer = styled.div`
     margin-right: 10px;
