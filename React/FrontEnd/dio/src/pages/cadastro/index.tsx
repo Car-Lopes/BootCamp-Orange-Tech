@@ -73,7 +73,7 @@ return(<>
                         <Text>Ao clicar em "criar minha conta grátis", declaro que aceito as Políticas de Privacidade e os Termos de Uso da DIO.</Text>
                     </Row>   
                     <Row> 
-                        <FazerLogin>Já tenho conta. <FazerLogin1>Fazer login</FazerLogin1></FazerLogin>   
+                        <FazerLogin>Já tenho conta. <FazerLogin1>Fazer login</FazerLogin1>  </FazerLogin>  
                     </Row>
                 </Wrapper>
             </Column>    
